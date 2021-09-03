@@ -125,4 +125,4 @@ venv.bak/
 dmypy.json
 
 # Output results
-output/**/*
+toppore/output/**/*.jl
